@@ -45,7 +45,7 @@ Keep in mind that this library can cause trouble if you are renaming a project t
 After that you should proceed as with any javascript project:
 
 - Go to your project's root folder and run `npm install`.
-- If you are using Xcode 12.5 or higher got to /ios and execute `pod install --`repo-update`
+- If you are using Xcode 12.5 or higher got to /ios and execute `pod install --repo-update`
 - Run `npm run ios` or `npm run android` to start your application!
 
 (Using yarn: `yarn ios` or `yarn android`)
